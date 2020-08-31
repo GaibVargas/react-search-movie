@@ -11,14 +11,13 @@
 </ul>
 
 <h1>Run it</h1>
-<ol>
-  <li>Clone repository</li>
-  <li>Get dependencies</li>
-    ```cmd
-      yarn
-    ```
-  <li>Init project</li>
-    ```cmd
-      yarn start
-    ```
-</ol>
+
+1. Clone repository
+2. Get dependencies
+```
+  yarn
+```
+3. Init project
+```
+  yarn start
+```
