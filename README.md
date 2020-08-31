@@ -13,14 +13,12 @@
 <h1>Run it</h1>
 <ol>
   <li>Clone repository</li>
-  <li>Get dependencies
+  <li>Get dependencies</li>
     ```cmd
       yarn
     ```
-  </li>
-  <li>Init project
+  <li>Init project</li>
     ```cmd
       yarn start
     ```
-  </li>
 </ol>
